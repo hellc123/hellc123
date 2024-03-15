@@ -32,8 +32,8 @@ My Tech Stack:
   - [ ] Angular (Can fix stuff but can't write from scratch) (NOT IN SCHEDULE)
   - [ ] Vue (Interested, not yet scheduled)
 - [x] Database
-  - [x] MySQL (basic)
-  - [x] SQLite (basic)
+  - [x] MySQL (Basic)
+  - [x] SQLite (Basic)
   - [ ] Redis (IN SCHEDULE)
 - [x] Linux System
   - [x] Basic usage
