@@ -10,15 +10,15 @@ My Tech Stack:
 - [x] C / C++
   - [x] Basic
   - [x] Desktop Application development via QT
+    - [x] Ability to read official QT documentation
     - [x] Reading Qt projects source code
-      - [ ] Qt6 Documention 
-      - [ ] [Goldendict](https://github.com/xiaoyifang/goldendict-ng) 
+      - [ ] [Goldendict](https://github.com/xiaoyifang/goldendict-ng) (Learning)
   - [x] Computer Graphics (Basic pipelining, OpenGL)
   - [ ] Parallel and High performance programming (Interested, not yet scheduled)
   - [ ] Complex algorithms (ACM-oriented)
 - [x] Python
   - [x] Basic
-  - [ ] Basic AI algorithms (SA, BPNN, etc) (IN SCHEDULE)
+  - [ ] Basic AI algorithms (IN SCHEDULE)
 - [ ] Rust (Scheduled)
 - [ ] Go (Scheduled)
 - [ ] Java (Learning)
@@ -40,8 +40,12 @@ My Tech Stack:
   - [ ] Shell programing (IN SCHEDULE)
 - [x] Computer fundaments
   - [x] Basic computer architecture
+    - [ ] X86-64 Assembly (IN SCHEDULE)
+    - [ ] RISC-V Assembly
   - [x] Basic compiler principles
+    - [ ] The assembly statement corresponding to each C language statement (IN SCHEDULE)
   - [x] Basic operating System
+    - [ ] [jyy's os class](https://jyywiki.cn/OS/2023/index.html) (Intersted, Learning)
   - [x] Basic computer network 
 
 
