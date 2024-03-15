@@ -12,7 +12,7 @@ My Tech Stack:
   - [x] Desktop Application development via QT
     - [x] Reading Qt projects source code
       - [ ] Qt6 Documention 
-      - [ ] [Goldendict] (https://github.com/xiaoyifang/goldendict-ng) 
+      - [ ] [Goldendict](https://github.com/xiaoyifang/goldendict-ng) 
   - [x] Computer Graphics (Basic pipelining, OpenGL)
   - [ ] Parallel and High performance programming (Interested, not yet scheduled)
   - [ ] Complex algorithms (ACM-oriented)
